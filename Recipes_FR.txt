@@ -147,4 +147,6 @@ Recipe_FR = {
 	Recipe_Prepare_For_CornedBeef = "Mettre du corned-beef en conserve",
 	Recipe_Prepare_For_Spaghetti_Bolognese = "Mettre des spaghetti bolognaise en conserve",
 	Recipe_Roll_Odd_Cigarettes = "Rouler des cigarettes étranges",
+
+	Recipe_Make_Dry_Yeast = "Préparer de la levure sèche",
 }

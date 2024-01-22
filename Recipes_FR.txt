@@ -149,4 +149,12 @@ Recipe_FR = {
 	Recipe_Roll_Odd_Cigarettes = "Rouler des cigarettes étranges",
 
 	Recipe_Make_Dry_Yeast = "Préparer de la levure sèche",
+	Recipe_Ferment_Wine = "Fermenter le vin",
+	Recipe_Make_Dry_Ramen_Noodles = "Préparer des nouilles ramen sèches",
+	Recipe_Make_Egg_Sushi = "Préparer un sushi aux œufs",
+	Recipe_Make_Icing = "Préparer un glaçage",
+	Recipe_Make_Potato_Pancakes = "Préparer des galettes de pommes de terre",
+	Recipe_Make_Pumpkin_Pie = "Préparer une tarte à la citrouille",
+	Recipe_Make_Sausage = "Préparer une saucisse",
+	Recipe_Make_Vegetable_Oil = "Faire de l'huile végétale",
 }

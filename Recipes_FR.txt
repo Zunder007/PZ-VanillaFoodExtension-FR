@@ -157,4 +157,6 @@ Recipe_FR = {
 	Recipe_Make_Pumpkin_Pie = "Préparer une tarte à la citrouille",
 	Recipe_Make_Sausage = "Préparer une saucisse",
 	Recipe_Make_Vegetable_Oil = "Faire de l'huile végétale",
+
+	Recipe_Make_Caramel_Honey = "Préparer du Caramel au miel",
 }
